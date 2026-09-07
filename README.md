@@ -9,17 +9,17 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (130)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (185)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (312)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (88)
-- [🎬 Video & Animation](#video-animation) (73)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (313)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (89)
+- [🎬 Video & Animation](#video-animation) (74)
 - [🎨 Image, Design & 3D](#image-design-3d) (87)
 - [✍️ Writing & Content](#writing-content) (58)
 - [📊 Analytics & Data](#analytics-data) (85)
-- [🗂 Productivity & Notes](#productivity-notes) (226)
+- [🗂 Productivity & Notes](#productivity-notes) (230)
 - [🔎 Search & Discovery](#search-discovery) (44)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (44)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (143)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (31)
 - [👥 Social & Community](#social-community) (23)
@@ -662,6 +662,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hyperprobe](https://hyperprobe.co) - HyperProbe is how backend teams debug production issues they can't reproduce locally.
 - [Ponytail](https://ponytail.dev) - Ponytail is a plugin that makes coding agents write the least code that works.
 - [dif.sh](https://www.dif.sh) - Open source feature flags as markdown files in your repo: the flag, the reason, the decision in one file, reviewed in a PR.
+- [Airuncode](https://airuncode.com) - Airuncode is a local-first agent runtime for serious software work.
 
 ## 🎙 Audio, Voice & Music
 
@@ -753,6 +754,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ChordWeaver](https://chordweaver.github.io) - Chordweaver is a free music theory playground for creating, experimenting, and learning.
 - [Teenage Engineering](https://teenage.engineering) - Teenage Engineering is a Swedish consumer electronics company and manufacturer founded in 2005 by Jesper Kouthoofd, David Eriksson, Jens Rudberg and David Möllerstedt and based in Stockholm.
 - [Parasocial](https://parasocial.fm) - PARASOCIAL is a fast, native podcast player for people who really love podcasts.
+- [Bloop](https://bloooooop.com) - Bloop turns system audio or mic input into eight real-time shader skins - every frame reacts to what's actually playing.
 
 ## 🎬 Video & Animation
 
@@ -829,6 +831,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Atlas by World Labs](https://www.worldlabs.ai/blog/atlas) - Atlas is World Labs' omni world model.
 - [VPlayed](https://www.vplayed.com) - VPlayed is an AI-powered video streaming platform that enables content owners, production houses, media platforms, and other businesses to build a full-fledged OTT solution within just days.
 - [Retold](https://stories-retold.com) - Record a memory or import an old voice note.
+- [Scriptly](https://jasoneliphalet.com/scriptly) - Write, organize, and record videos effortlessly with Scriptly.
 
 ## 🎨 Image, Design & 3D
 
@@ -1299,6 +1302,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Excelerator Password 2.0](https://apps.apple.com/us/app/excelerator-password/id6804012537) - Excelerator Password is a Mac utility for people who regularly work with password-protected Excel files.
 - [CommuteBar](https://commute.bar) - Glance at traffic.
 - [AI Toolbox](https://ai-toolbox.co) - Your chats live in four different sidebars, with weak search and no way to get them out.
+- [Remind](https://remind.ing) - Remind puts your next meeting on every screen, with an AI briefing on who you are meeting and a one-click join button.
+- [Clipnote](https://clipnote.paritto.dev) - Your ChatGPT and Claude conversations disappear the moment you close the tab.
+- [Assist](https://assistapp.dev) - Annotate your Mac screen with voice, capture full-screen screenshots, and keep copied text ready to reuse from the notch.
+- [Tucky](https://tucky.io) - Tucky is a native macOS notes app that sleeps as a thin stripe on the screen edge.
 
 ## 🔎 Search & Discovery
 
@@ -1472,6 +1479,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [akta.pro](https://akta.pro) - Private company data with 4x the depth and 2x the coverage of PitchBook, plus 100+ event signals and news across companies, industries, and topics.
 - [HEVN U.S.](https://gethevn.com/apply) - HEVN U.S. Accounts give eligible companies in 100+ countries access to USD banking through U.S. sponsor banks. Receive USD via Fedwire, hold USD, pay U.S. counterparties locally, and settle….
 - [1752vc Pitch Deck Analyzer](https://1752.ai) - The Pitch Deck Analyzer gives you investor-grade feedback in minutes — trained on 25,000+ real decks and the investor decisions that followed.
+- [Nina by Antalpha](https://www.antalpha.com/en-us/) - Nina is a non-custodial AI trading assistant by Antalpha (NASDAQ: ANTA).
 
 ## 🛠 APIs, SDKs & Infrastructure
 
