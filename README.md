@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (130)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (135)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (185)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (313)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (89)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (316)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (90)
 - [🎬 Video & Animation](#video-animation) (74)
 - [🎨 Image, Design & 3D](#image-design-3d) (87)
 - [✍️ Writing & Content](#writing-content) (58)
 - [📊 Analytics & Data](#analytics-data) (85)
-- [🗂 Productivity & Notes](#productivity-notes) (230)
+- [🗂 Productivity & Notes](#productivity-notes) (231)
 - [🔎 Search & Discovery](#search-discovery) (44)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (44)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (45)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (143)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (31)
-- [👥 Social & Community](#social-community) (23)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (15)
-- [✨ Everything Else](#everything-else) (113)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (32)
+- [👥 Social & Community](#social-community) (24)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (16)
+- [✨ Everything Else](#everything-else) (114)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -158,6 +158,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Articos](https://www.articos.com) - Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP.
 - [Nex](https://nex.ai) - Nex builds and runs the complex, high-volume GTM workflows that general-purpose agents struggle with.
 - [UGCad AI - #1 AI UGC Video Ad Generator](https://ugcad.ai) - UGCad AI is an AI UGC video generator that creates marketing videos without a camera, creator, or editing skills.
+- [Tables](https://www.tables.so) - Scale your B2B outbound sales on data you can trust.
+- [Relaticle](https://relaticle.com) - Most CRMs bolt AI on.
+- [GoodLads](https://goodlads.cc) - AI growth manager for Google Ads accounts.
+- [Knockin'](https://www.knockin.info) - Knockin turns your bio into an AI business card people can chat with.
+- [Widgo](https://widgo.ai) - Widgo is an AI sales rep that lives on your website.
 
 ## 🤖 AI Agents & Assistants
 
@@ -663,6 +668,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ponytail](https://ponytail.dev) - Ponytail is a plugin that makes coding agents write the least code that works.
 - [dif.sh](https://www.dif.sh) - Open source feature flags as markdown files in your repo: the flag, the reason, the decision in one file, reviewed in a PR.
 - [Airuncode](https://airuncode.com) - Airuncode is a local-first agent runtime for serious software work.
+- [Catenary](https://thecatenary.app) - Catenary is a spatial IDE and terminal orchestrator that reimagines coding with AI agents.
+- [AppGacha](https://appgacha.com) - AppGacha turns a plain-language wish into a real desktop app—utilities, widgets, games, and personal tools.
+- [Kombai](https://kombai.com) - Kombai is your AI Design Engineer to design and code standout (not slop) websites and product UI's.
 
 ## 🎙 Audio, Voice & Music
 
@@ -755,6 +763,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Teenage Engineering](https://teenage.engineering) - Teenage Engineering is a Swedish consumer electronics company and manufacturer founded in 2005 by Jesper Kouthoofd, David Eriksson, Jens Rudberg and David Möllerstedt and based in Stockholm.
 - [Parasocial](https://parasocial.fm) - PARASOCIAL is a fast, native podcast player for people who really love podcasts.
 - [Bloop](https://bloooooop.com) - Bloop turns system audio or mic input into eight real-time shader skins - every frame reacts to what's actually playing.
+- [Dictantor](https://www.dictantor.app) - Dictantor captures meetings and voice notes across Mac, iPhone, and Apple Watch.
 
 ## 🎬 Video & Animation
 
@@ -1306,6 +1315,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clipnote](https://clipnote.paritto.dev) - Your ChatGPT and Claude conversations disappear the moment you close the tab.
 - [Assist](https://assistapp.dev) - Annotate your Mac screen with voice, capture full-screen screenshots, and keep copied text ready to reuse from the notch.
 - [Tucky](https://tucky.io) - Tucky is a native macOS notes app that sleeps as a thin stripe on the screen edge.
+- [Evidence Desk](https://evidencedesk.io) - Evidence Desk is a legal document management platform built for law firms and litigation teams who demand precision.
 
 ## 🔎 Search & Discovery
 
@@ -1480,6 +1490,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [HEVN U.S.](https://gethevn.com/apply) - HEVN U.S. Accounts give eligible companies in 100+ countries access to USD banking through U.S. sponsor banks. Receive USD via Fedwire, hold USD, pay U.S. counterparties locally, and settle….
 - [1752vc Pitch Deck Analyzer](https://1752.ai) - The Pitch Deck Analyzer gives you investor-grade feedback in minutes — trained on 25,000+ real decks and the investor decisions that followed.
 - [Nina by Antalpha](https://www.antalpha.com/en-us/) - Nina is a non-custodial AI trading assistant by Antalpha (NASDAQ: ANTA).
+- [SODAX SDK](https://www.sodax.com) - SODAX provides a highly customizable execution system to build stablecoin, crypto and real world asset transactions.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1660,6 +1671,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ify](https://useify.ai) - Most AI support tools ask you to rip out your helpdesk first.
 - [Ojin](https://ojin.ai) - Human AI Agents have a real face and a real voice, and run live conversation rather than turn-based exchange.
 - [Inline](https://inline.chat) - Inline is a thread-based chat app for all work, with your team and agents.
+- [Switch](https://www.flintai.dev/products/switch) - Switch brings AI agents into the collaboration tools your team already uses.
 
 ## 👥 Social & Community
 
@@ -1686,6 +1698,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RIP MY BUILD](https://www.ripmybuild.com) - RIP MY BUILD is a side project cemetery for honest public postmortems.
 - [cmmnts](https://cmmnts.in) - Adding comments to your website shouldn’t require building a comment system from scratch.
 - [PostBox](https://postbox.sh) - PostBox turns the MacBook notch into a drag and drop poster for the work you make.
+- [Nametag](https://nametagai.com) - People love you when you remember their name.
 
 ## 🛒 E-commerce & Retail
 
@@ -1704,6 +1717,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [HonorBox](https://honorboxx.github.io/honorbox/) - Your storefront is a static site on GitHub Pages.
 - [Athena by Shoplazza](https://www.shoplaza.ai) - Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy.
 - [Ask My Wardrobe](https://askmywardrobe.com) - Ask My Wardrobe is an AI outfit generator and outfit planner that makes it easier to get dressed, plan better looks, and shop with more confidence.
+- [OpenMarket](https://openmarket.m11.ai) - What if marketplaces rewarded the best product instead of the best marketing?.
 
 ## ✨ Everything Else
 
@@ -1820,6 +1834,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Referent](https://referent.law) - Referent is AI-native legal practice management software for lawyers and law firms.
 - [Tether](https://www.playtether.app) - A ball hangs from your Mac menu bar on an elastic tether.
 - [Queuebrick](https://www.queuebrick.com) - Fast, elegant movie tracking.
+- [BZG](http://bzgapps.com) - BZG create great apps for Apple devices, including Unite, Coherence, and Aerate.
 
 ## Contributing
 
