@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (135)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (185)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (316)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (138)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (186)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (320)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (90)
-- [🎬 Video & Animation](#video-animation) (74)
+- [🎬 Video & Animation](#video-animation) (75)
 - [🎨 Image, Design & 3D](#image-design-3d) (87)
 - [✍️ Writing & Content](#writing-content) (58)
 - [📊 Analytics & Data](#analytics-data) (85)
-- [🗂 Productivity & Notes](#productivity-notes) (231)
+- [🗂 Productivity & Notes](#productivity-notes) (232)
 - [🔎 Search & Discovery](#search-discovery) (44)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (45)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (143)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (144)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (32)
 - [👥 Social & Community](#social-community) (24)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
-- [✨ Everything Else](#everything-else) (114)
+- [✨ Everything Else](#everything-else) (117)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -163,6 +163,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GoodLads](https://goodlads.cc) - AI growth manager for Google Ads accounts.
 - [Knockin'](https://www.knockin.info) - Knockin turns your bio into an AI business card people can chat with.
 - [Widgo](https://widgo.ai) - Widgo is an AI sales rep that lives on your website.
+- [AdScope](https://adscope.live) - AdScope transforms confusing ad data into clear visual dashboards for agencies and business owners.
+- [Ass Auction](https://ass.auction) - Ass Auction is an ad network with one placement: a pair of boxers.
+- [Noodle Seed](https://noodleseed.com) - Get discovered where your customers are already searching.
 
 ## 🤖 AI Agents & Assistants
 
@@ -351,6 +354,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenClaw (formerly Clawdbot)](https://openclaw.ai) - OpenClaw, the AI that actually does things.
 - [MagiCrew](https://www.magicrew.ai) - MagiCrew is an open-source AI Agent platform that gives everyone their own AI workforce.
 - [Tadata](https://www.tadata.com) - Tadata is the AI employee that lives in your Slack.
+- [Muse by Meta](https://muse.ai) - Try Muse, your personal AI agent that gets things done.
 
 ## 💻 Coding & Developer Tools
 
@@ -671,6 +675,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Catenary](https://thecatenary.app) - Catenary is a spatial IDE and terminal orchestrator that reimagines coding with AI agents.
 - [AppGacha](https://appgacha.com) - AppGacha turns a plain-language wish into a real desktop app—utilities, widgets, games, and personal tools.
 - [Kombai](https://kombai.com) - Kombai is your AI Design Engineer to design and code standout (not slop) websites and product UI's.
+- [49agents IDE](https://49agents.com) - 49Agents IDE is a 2D canvas where every agent, terminal, repo and machine you own lives on a single map that you build yourself.
+- [Harden](https://harden.run) - Harden AIF is a free, local security tool for AI coding agents.
+- [Mastra](https://mastra.ai) - From the team behind Gatsby, Mastra is a framework for building AI-powered apps and agents with workflows, memory, streaming, evals, tracing, and Studio, an interactive UI for dev and testing.
+- [QueryDeck](https://www.querydeck.app) - Auto-detects your ORM.
 
 ## 🎙 Audio, Voice & Music
 
@@ -841,6 +849,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [VPlayed](https://www.vplayed.com) - VPlayed is an AI-powered video streaming platform that enables content owners, production houses, media platforms, and other businesses to build a full-fledged OTT solution within just days.
 - [Retold](https://stories-retold.com) - Record a memory or import an old voice note.
 - [Scriptly](https://jasoneliphalet.com/scriptly) - Write, organize, and record videos effortlessly with Scriptly.
+- [Diiverge](https://diiverge.co) - Turn a photo, painting or screenshot into a point-and-click adventure.
 
 ## 🎨 Image, Design & 3D
 
@@ -1316,6 +1325,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Assist](https://assistapp.dev) - Annotate your Mac screen with voice, capture full-screen screenshots, and keep copied text ready to reuse from the notch.
 - [Tucky](https://tucky.io) - Tucky is a native macOS notes app that sleeps as a thin stripe on the screen edge.
 - [Evidence Desk](https://evidencedesk.io) - Evidence Desk is a legal document management platform built for law firms and litigation teams who demand precision.
+- [Type.com](https://type.com) - Type is a shared workspace that compounds your team's best AI work.
 
 ## 🔎 Search & Discovery
 
@@ -1637,6 +1647,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Reflexio](https://www.reflexio.ai) - Reflexio makes AI agents better with every interaction.
 - [Speakeasy](https://www.speakeasy.com) - The AI control plane to understand how AI is used, define what it can access, and enforce security policy across every agent, MCP server, and Skill in your enterprise.
 - [Fal.ai](https://fal.ai) - Easiest & most cost-effective way to use Gen AI.
+- [GoModel](https://gomodel.enterpilot.io) - Open-source AI gateway in Go.
 
 ## 💬 Chatbots & Conversational
 
@@ -1835,6 +1846,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tether](https://www.playtether.app) - A ball hangs from your Mac menu bar on an elastic tether.
 - [Queuebrick](https://www.queuebrick.com) - Fast, elegant movie tracking.
 - [BZG](http://bzgapps.com) - BZG create great apps for Apple devices, including Unite, Coherence, and Aerate.
+- [Frigade](https://frigade.com) - Frigade builds AI-native tools for product onboarding and in-app guidance.
+- [WorkID.ai](https://workid.ai) - We've rebuilt the way hiring works.
+- [DuckFightClub](https://duckfight.club) - Imagine WWE SmackDown, but with cute, AI-trained robots.
 
 ## Contributing
 
