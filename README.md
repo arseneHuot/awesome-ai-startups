@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (138)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (140)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (186)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (320)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (90)
-- [🎬 Video & Animation](#video-animation) (75)
-- [🎨 Image, Design & 3D](#image-design-3d) (87)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (91)
+- [🎬 Video & Animation](#video-animation) (77)
+- [🎨 Image, Design & 3D](#image-design-3d) (89)
 - [✍️ Writing & Content](#writing-content) (58)
-- [📊 Analytics & Data](#analytics-data) (85)
-- [🗂 Productivity & Notes](#productivity-notes) (232)
+- [📊 Analytics & Data](#analytics-data) (87)
+- [🗂 Productivity & Notes](#productivity-notes) (234)
 - [🔎 Search & Discovery](#search-discovery) (44)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (45)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (144)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (46)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (145)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (32)
-- [👥 Social & Community](#social-community) (24)
+- [👥 Social & Community](#social-community) (25)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
 - [✨ Everything Else](#everything-else) (117)
 
@@ -166,6 +166,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AdScope](https://adscope.live) - AdScope transforms confusing ad data into clear visual dashboards for agencies and business owners.
 - [Ass Auction](https://ass.auction) - Ass Auction is an ad network with one placement: a pair of boxers.
 - [Noodle Seed](https://noodleseed.com) - Get discovered where your customers are already searching.
+- [FreeScan.app](https://www.freescan.app) - Audit any public URL for free, no signup.
+- [SEO Map](https://seomap.io) - SEO Map turns your business, audience and market context into a complete SEO site strategy.
 
 ## 🤖 AI Agents & Assistants
 
@@ -772,6 +774,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Parasocial](https://parasocial.fm) - PARASOCIAL is a fast, native podcast player for people who really love podcasts.
 - [Bloop](https://bloooooop.com) - Bloop turns system audio or mic input into eight real-time shader skins - every frame reacts to what's actually playing.
 - [Dictantor](https://www.dictantor.app) - Dictantor captures meetings and voice notes across Mac, iPhone, and Apple Watch.
+- [Subanana](https://subanana.com) - Most transcription tools lock everything to one AI vendor - great for English, rough for everything else.
 
 ## 🎬 Video & Animation
 
@@ -850,6 +853,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Retold](https://stories-retold.com) - Record a memory or import an old voice note.
 - [Scriptly](https://jasoneliphalet.com/scriptly) - Write, organize, and record videos effortlessly with Scriptly.
 - [Diiverge](https://diiverge.co) - Turn a photo, painting or screenshot into a point-and-click adventure.
+- [Veevid AI](https://veevid.ai) - Turn text, images, or videos into cinematic AI videos with audio - no editing needed.
+- [Ray 3.2 AI Video Generator - Create Cont](https://ray32.net) - Stop storyboarding.
 
 ## 🎨 Image, Design & 3D
 
@@ -941,6 +946,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CleanShot](https://getcleanshot.com) - Discover a superior way to capture your Mac's screen with built-in annotation and amazing Quick Access Overlay.
 - [Causal](https://causal.so) - Enabling designers, creators, and founders to plan visual projects on an AI canvas.
 - [BrickForgerAI](https://brickforgerai.com) - Type a prompt, get a buildable brick model.
+- [Mock Magic](https://studio.mockmagic.com) - MockMagic is a powerful tool that helps you create beautiful device mockups for your designs.
+- [Modeinspect](https://modeinspect.com) - Most software is designed twice: a picture first, then again in code.
 
 ## ✍️ Writing & Content
 
@@ -1091,6 +1098,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [StackScope](https://stackscope.dev) - See which sites started using Stripe, Shopify or Next.js this week. Most of what we index we find ourselves: over 2.2+ million sites from public infrastructure signals, not submitted to us, across….
 - [Userlens](https://userlens.io) - Userlens helps SaaS teams turn product behavior into timely, personal guidance.
 - [TrackMCP](https://www.trackmcp.com) - TrackMCP shows who is using your MCP server, what they are trying to do, whether the work gets done, and where to improve.
+- [Viso Now](https://viso.ai) - Viso Now is a self-building AI vision platform that turns images, video, and camera feeds into working computer vision applications.
+- [OpenObserve](https://openobserve.ai) - Fast, scalable and cost-effective open-source observability platform.
 
 ## 🗂 Productivity & Notes
 
@@ -1326,6 +1335,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tucky](https://tucky.io) - Tucky is a native macOS notes app that sleeps as a thin stripe on the screen edge.
 - [Evidence Desk](https://evidencedesk.io) - Evidence Desk is a legal document management platform built for law firms and litigation teams who demand precision.
 - [Type.com](https://type.com) - Type is a shared workspace that compounds your team's best AI work.
+- [Speechmark](https://www.speechmark.co) - Speechmark is a private macOS meeting-notes app.
+- [Thousand](https://usethousand.com) - Git-backed docs with real access control, in one markdown repo with folder-level access where teammates, outsiders and AI agents each see exactly their folders.
 
 ## 🔎 Search & Discovery
 
@@ -1501,6 +1512,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [1752vc Pitch Deck Analyzer](https://1752.ai) - The Pitch Deck Analyzer gives you investor-grade feedback in minutes — trained on 25,000+ real decks and the investor decisions that followed.
 - [Nina by Antalpha](https://www.antalpha.com/en-us/) - Nina is a non-custodial AI trading assistant by Antalpha (NASDAQ: ANTA).
 - [SODAX SDK](https://www.sodax.com) - SODAX provides a highly customizable execution system to build stablecoin, crypto and real world asset transactions.
+- [Wealthfolio](https://wealthfolio.app) - Wealthfolio is an open-source, local-first app for tracking investments, net worth, spending and financial goals.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1648,6 +1660,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Speakeasy](https://www.speakeasy.com) - The AI control plane to understand how AI is used, define what it can access, and enforce security policy across every agent, MCP server, and Skill in your enterprise.
 - [Fal.ai](https://fal.ai) - Easiest & most cost-effective way to use Gen AI.
 - [GoModel](https://gomodel.enterpilot.io) - Open-source AI gateway in Go.
+- [Desert Ant Labs](https://desertant.com) - Desert Ant Labs builds small AI models that run on your phone or browser, no internet, no per-use cost.
 
 ## 💬 Chatbots & Conversational
 
@@ -1710,6 +1723,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [cmmnts](https://cmmnts.in) - Adding comments to your website shouldn’t require building a comment system from scratch.
 - [PostBox](https://postbox.sh) - PostBox turns the MacBook notch into a drag and drop poster for the work you make.
 - [Nametag](https://nametagai.com) - People love you when you remember their name.
+- [Whip](https://whip.run) - Whip is a feed for the interactive expeirences.
 
 ## 🛒 E-commerce & Retail
 
