@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (140)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (142)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (186)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (320)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (91)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (322)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (92)
 - [🎬 Video & Animation](#video-animation) (77)
-- [🎨 Image, Design & 3D](#image-design-3d) (89)
-- [✍️ Writing & Content](#writing-content) (58)
+- [🎨 Image, Design & 3D](#image-design-3d) (95)
+- [✍️ Writing & Content](#writing-content) (59)
 - [📊 Analytics & Data](#analytics-data) (87)
-- [🗂 Productivity & Notes](#productivity-notes) (234)
-- [🔎 Search & Discovery](#search-discovery) (44)
+- [🗂 Productivity & Notes](#productivity-notes) (236)
+- [🔎 Search & Discovery](#search-discovery) (46)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (46)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (145)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (32)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (47)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (146)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (33)
 - [👥 Social & Community](#social-community) (25)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
 - [✨ Everything Else](#everything-else) (117)
@@ -168,6 +168,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Noodle Seed](https://noodleseed.com) - Get discovered where your customers are already searching.
 - [FreeScan.app](https://www.freescan.app) - Audit any public URL for free, no signup.
 - [SEO Map](https://seomap.io) - SEO Map turns your business, audience and market context into a complete SEO site strategy.
+- [Wisry](https://wisry.ai) - AI agents that run the whole play: scan the Meta and TikTok ad libraries for the ads already winning in your market, clone them into your brand as static and video ads, and launch to Meta and….
+- [Anysite.io](https://anysite.io) - Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the list you need — companies by geo, industry, and size; the people inside them; their current job titles and….
 
 ## 🤖 AI Agents & Assistants
 
@@ -681,6 +683,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Harden](https://harden.run) - Harden AIF is a free, local security tool for AI coding agents.
 - [Mastra](https://mastra.ai) - From the team behind Gatsby, Mastra is a framework for building AI-powered apps and agents with workflows, memory, streaming, evals, tracing, and Studio, an interactive UI for dev and testing.
 - [QueryDeck](https://www.querydeck.app) - Auto-detects your ORM.
+- [Devin Voice](https://docs.devin.ai/work-with-devin/voice-mode) - Devin Voice lets you talk to Devin, Cognition's AI software engineer, and have it ship the work.
+- [easyspecs.ai](https://easyspecs.ai) - The gap between 1.5x and 100x isn't speed, it's trust!! AI agents generate code 100x faster than humans write it. But your team can't review it all. EasySpecs documents undocumented codebases and….
 
 ## 🎙 Audio, Voice & Music
 
@@ -775,6 +779,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bloop](https://bloooooop.com) - Bloop turns system audio or mic input into eight real-time shader skins - every frame reacts to what's actually playing.
 - [Dictantor](https://www.dictantor.app) - Dictantor captures meetings and voice notes across Mac, iPhone, and Apple Watch.
 - [Subanana](https://subanana.com) - Most transcription tools lock everything to one AI vendor - great for English, rough for everything else.
+- [GiftableSong](https://giftablesong.com) - Turn your memories into a personalized song gift.
 
 ## 🎬 Video & Animation
 
@@ -948,6 +953,12 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BrickForgerAI](https://brickforgerai.com) - Type a prompt, get a buildable brick model.
 - [Mock Magic](https://studio.mockmagic.com) - MockMagic is a powerful tool that helps you create beautiful device mockups for your designs.
 - [Modeinspect](https://modeinspect.com) - Most software is designed twice: a picture first, then again in code.
+- [GLYPH Immersive](https://glyph.kateander.com) - Draw rounded-pixel letterforms and shapes on an adjustable grid.
+- [Design Studio by Monday Merch](https://www.mondaymerch.com/shop/studio) - Think Figma, but for creating real products.
+- [sizeless](https://sizeless.co) - sizeless turns a smartphone video of an open trench into the documentation utilities and contractors are legally required to produce: a 3D model, CAD/BIM plans, and the quantities they bill from.
+- [Sliick](https://sliick.co) - Turn screenshots and videos into beautiful 3D device mockups, right in your browser.
+- [PromptToVisual](https://prompttovisual.com) - Generate images from text, edit a reference photo, and download your results.
+- [Image3D](https://image3d.io) - Upload one image or enter one short prompt, preview the 3D mesh in browser, and export OBJ, STL, GLB or PLY when the result looks right.
 
 ## ✍️ Writing & Content
 
@@ -1009,6 +1020,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Murfy AI](https://murfy.ai/en) - Murfy is a team of AI agents for the entire research writing workflow.
 - [Onset.io](http://onset.io) - Write release notes in minutes, or let your AI agent draft them for you.
 - [Tidy](https://greene-squares.github.io/tidy-releases/) - Fix spelling and grammar anywhere on your Mac.
+- [Moji](https://alexishida.com/moji) - Open Markdown like a document: fast, clean, and distraction-free.
 
 ## 📊 Analytics & Data
 
@@ -1337,6 +1349,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Type.com](https://type.com) - Type is a shared workspace that compounds your team's best AI work.
 - [Speechmark](https://www.speechmark.co) - Speechmark is a private macOS meeting-notes app.
 - [Thousand](https://usethousand.com) - Git-backed docs with real access control, in one markdown repo with folder-level access where teammates, outsiders and AI agents each see exactly their folders.
+- [Formesign - Signature for Google Forms](https://formesign.com/esign) - Google Forms is great at collecting data from your users, but doesn't have the option to collect signatures.
+- [Loqua](https://www.theloqua.ai) - Your thoughts shouldn’t have to slow down for a keyboard.
 
 ## 🔎 Search & Discovery
 
@@ -1384,6 +1398,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PageIndex](https://pageindex.ai) - PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on.
 - [Particle News](https://particle.news) - It should be easier to understand what’s happening, so why does keeping up with the news feel like work?.
 - [Notify.domains](https://notify.domains) - Most people who want a specific domain name have no way to know when a real opportunity to acquire it appears.
+- [chat-recall](https://chatrecall.dev) - Your team has done months of work with AI assistants.
+- [AI Tool Finder](https://aitoolfinder.org) - AI Tool Finder helps users discover and compare free AI tools across writing, image, video, coding, and productivity use cases.
 
 ## 🎓 Education & Learning
 
@@ -1513,6 +1529,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nina by Antalpha](https://www.antalpha.com/en-us/) - Nina is a non-custodial AI trading assistant by Antalpha (NASDAQ: ANTA).
 - [SODAX SDK](https://www.sodax.com) - SODAX provides a highly customizable execution system to build stablecoin, crypto and real world asset transactions.
 - [Wealthfolio](https://wealthfolio.app) - Wealthfolio is an open-source, local-first app for tracking investments, net worth, spending and financial goals.
+- [Accordio AI](https://accordio.ai) - Track time, draft invoices, sign contracts, get paid.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1661,6 +1678,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fal.ai](https://fal.ai) - Easiest & most cost-effective way to use Gen AI.
 - [GoModel](https://gomodel.enterpilot.io) - Open-source AI gateway in Go.
 - [Desert Ant Labs](https://desertant.com) - Desert Ant Labs builds small AI models that run on your phone or browser, no internet, no per-use cost.
+- [Cadenya](https://www.cadenya.com) - Cadenya is not a framework you bolt into your application stack.
 
 ## 💬 Chatbots & Conversational
 
@@ -1696,6 +1714,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ojin](https://ojin.ai) - Human AI Agents have a real face and a real voice, and run live conversation rather than turn-based exchange.
 - [Inline](https://inline.chat) - Inline is a thread-based chat app for all work, with your team and agents.
 - [Switch](https://www.flintai.dev/products/switch) - Switch brings AI agents into the collaboration tools your team already uses.
+- [ChatHop](https://chathop.tech) - Move your AI conversation to another assistant mid-thought, context included.
 
 ## 👥 Social & Community
 
