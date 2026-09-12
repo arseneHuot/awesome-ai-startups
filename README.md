@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (142)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (143)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (186)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (322)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (92)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (323)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (93)
 - [🎬 Video & Animation](#video-animation) (77)
-- [🎨 Image, Design & 3D](#image-design-3d) (95)
-- [✍️ Writing & Content](#writing-content) (59)
+- [🎨 Image, Design & 3D](#image-design-3d) (96)
+- [✍️ Writing & Content](#writing-content) (60)
 - [📊 Analytics & Data](#analytics-data) (87)
-- [🗂 Productivity & Notes](#productivity-notes) (236)
+- [🗂 Productivity & Notes](#productivity-notes) (241)
 - [🔎 Search & Discovery](#search-discovery) (46)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (47)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (146)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (148)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (33)
 - [👥 Social & Community](#social-community) (25)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
-- [✨ Everything Else](#everything-else) (117)
+- [✨ Everything Else](#everything-else) (118)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -170,6 +170,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SEO Map](https://seomap.io) - SEO Map turns your business, audience and market context into a complete SEO site strategy.
 - [Wisry](https://wisry.ai) - AI agents that run the whole play: scan the Meta and TikTok ad libraries for the ads already winning in your market, clone them into your brand as static and video ads, and launch to Meta and….
 - [Anysite.io](https://anysite.io) - Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the list you need — companies by geo, industry, and size; the people inside them; their current job titles and….
+- [Youkti](https://youkti.ai) - Youkti keeps a memory of every account, conversation, and deal, then tells your sales team the exact next move: which deal is slipping, which dormant account just fired a signal, what to prep for….
 
 ## 🤖 AI Agents & Assistants
 
@@ -685,6 +686,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [QueryDeck](https://www.querydeck.app) - Auto-detects your ORM.
 - [Devin Voice](https://docs.devin.ai/work-with-devin/voice-mode) - Devin Voice lets you talk to Devin, Cognition's AI software engineer, and have it ship the work.
 - [easyspecs.ai](https://easyspecs.ai) - The gap between 1.5x and 100x isn't speed, it's trust!! AI agents generate code 100x faster than humans write it. But your team can't review it all. EasySpecs documents undocumented codebases and….
+- [Stackness](https://stackness.dev) - Stackness is where developers and vibe coders show the tools, workflows, and approaches they build with.
 
 ## 🎙 Audio, Voice & Music
 
@@ -780,6 +782,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dictantor](https://www.dictantor.app) - Dictantor captures meetings and voice notes across Mac, iPhone, and Apple Watch.
 - [Subanana](https://subanana.com) - Most transcription tools lock everything to one AI vendor - great for English, rough for everything else.
 - [GiftableSong](https://giftablesong.com) - Turn your memories into a personalized song gift.
+- [VoxelWall](https://voxelwall.app) - VoxelWall is a native macOS live wallpaper engine with 37 original scenes that react in real time to whatever your Mac is playing.
 
 ## 🎬 Video & Animation
 
@@ -959,6 +962,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sliick](https://sliick.co) - Turn screenshots and videos into beautiful 3D device mockups, right in your browser.
 - [PromptToVisual](https://prompttovisual.com) - Generate images from text, edit a reference photo, and download your results.
 - [Image3D](https://image3d.io) - Upload one image or enter one short prompt, preview the 3D mesh in browser, and export OBJ, STL, GLB or PLY when the result looks right.
+- [ABrush](https://abrush.ai) - ABrush brings leading AI models and production-ready advanced AI workflows into the environment where artists already work.
 
 ## ✍️ Writing & Content
 
@@ -1021,6 +1025,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Onset.io](http://onset.io) - Write release notes in minutes, or let your AI agent draft them for you.
 - [Tidy](https://greene-squares.github.io/tidy-releases/) - Fix spelling and grammar anywhere on your Mac.
 - [Moji](https://alexishida.com/moji) - Open Markdown like a document: fast, clean, and distraction-free.
+- [Marked Share](https://share.markedapp.com) - Marked Share is a subproduct of Marked 3, but doesn't require Marked to use.
 
 ## 📊 Analytics & Data
 
@@ -1351,6 +1356,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Thousand](https://usethousand.com) - Git-backed docs with real access control, in one markdown repo with folder-level access where teammates, outsiders and AI agents each see exactly their folders.
 - [Formesign - Signature for Google Forms](https://formesign.com/esign) - Google Forms is great at collecting data from your users, but doesn't have the option to collect signatures.
 - [Loqua](https://www.theloqua.ai) - Your thoughts shouldn’t have to slow down for a keyboard.
+- [LinkFlick](https://linkflick.com) - I built this because I got sick of re-pairing my Magic Keyboard and Mouse every time I moved between my MacBook and my work MacBook — different Apple IDs, so Universal Control was never going to….
+- [Captain Kill Switch](https://captainkillswitch.com) - A quiet menu-bar button that closes every running app the moment you need a clean slate.
+- [Relic](https://relic.space) - Relic remembers everything you copy, understands it on-device, and syncs it across your phones and computers, sealed so only you can read it.
+- [Work Life Panda](https://worklifepanda.com) - Your week lives in a calendar, your to-dos in a list, your plans in a group chat.
+- [DockFix](https://www.dockfix.app) - DockFix is a powerful macOS Dock replacement that transforms your native dock into an ultra-customizable command center.
 
 ## 🔎 Search & Discovery
 
@@ -1679,6 +1689,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GoModel](https://gomodel.enterpilot.io) - Open-source AI gateway in Go.
 - [Desert Ant Labs](https://desertant.com) - Desert Ant Labs builds small AI models that run on your phone or browser, no internet, no per-use cost.
 - [Cadenya](https://www.cadenya.com) - Cadenya is not a framework you bolt into your application stack.
+- [Pascal’s Pager](https://www.pascelspages.com) - Stop writing a parser for every service.
+- [Cortex](https://cortexdocs.dev) - Cortex is an open source API knowledge layer that turns OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC specs into interactive documentation, typed SDKs in 11 languages, and MCP servers for AI agents.
 
 ## 💬 Chatbots & Conversational
 
@@ -1882,6 +1894,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Frigade](https://frigade.com) - Frigade builds AI-native tools for product onboarding and in-app guidance.
 - [WorkID.ai](https://workid.ai) - We've rebuilt the way hiring works.
 - [DuckFightClub](https://duckfight.club) - Imagine WWE SmackDown, but with cute, AI-trained robots.
+- [Kabza](https://www.playkabza.com) - Turn Noida, Delhi, Gurugram or Bengaluru into a battle with friends.
 
 ## Contributing
 
