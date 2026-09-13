@@ -7,15 +7,15 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (143)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (146)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (186)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (323)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (324)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (93)
-- [🎬 Video & Animation](#video-animation) (77)
-- [🎨 Image, Design & 3D](#image-design-3d) (96)
-- [✍️ Writing & Content](#writing-content) (60)
+- [🎬 Video & Animation](#video-animation) (78)
+- [🎨 Image, Design & 3D](#image-design-3d) (97)
+- [✍️ Writing & Content](#writing-content) (61)
 - [📊 Analytics & Data](#analytics-data) (87)
-- [🗂 Productivity & Notes](#productivity-notes) (241)
+- [🗂 Productivity & Notes](#productivity-notes) (243)
 - [🔎 Search & Discovery](#search-discovery) (46)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
@@ -171,6 +171,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Wisry](https://wisry.ai) - AI agents that run the whole play: scan the Meta and TikTok ad libraries for the ads already winning in your market, clone them into your brand as static and video ads, and launch to Meta and….
 - [Anysite.io](https://anysite.io) - Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the list you need — companies by geo, industry, and size; the people inside them; their current job titles and….
 - [Youkti](https://youkti.ai) - Youkti keeps a memory of every account, conversation, and deal, then tells your sales team the exact next move: which deal is slipping, which dormant account just fired a signal, what to prep for….
+- [Neopress](https://neopress.ai) - Build and grow your website in one AI-powered loop.
+- [DemoTV](https://www.demotv.lol) - DemoTV is a 24/7 channel of product demos, ranked by the people watching.
+- [Visiby](https://visiby.net) - Visiby helps brands measure, understand, and improve their visibility across AI search platforms like ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 
 ## 🤖 AI Agents & Assistants
 
@@ -687,6 +690,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Devin Voice](https://docs.devin.ai/work-with-devin/voice-mode) - Devin Voice lets you talk to Devin, Cognition's AI software engineer, and have it ship the work.
 - [easyspecs.ai](https://easyspecs.ai) - The gap between 1.5x and 100x isn't speed, it's trust!! AI agents generate code 100x faster than humans write it. But your team can't review it all. EasySpecs documents undocumented codebases and….
 - [Stackness](https://stackness.dev) - Stackness is where developers and vibe coders show the tools, workflows, and approaches they build with.
+- [Cognition's SWE-2](https://cognition.com/blog/swe-2) - SWE-2 is Cognition's new coding model, post-trained from Kimi K3 with RL that optimizes for cost and capability at the same time.
 
 ## 🎙 Audio, Voice & Music
 
@@ -863,6 +867,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Diiverge](https://diiverge.co) - Turn a photo, painting or screenshot into a point-and-click adventure.
 - [Veevid AI](https://veevid.ai) - Turn text, images, or videos into cinematic AI videos with audio - no editing needed.
 - [Ray 3.2 AI Video Generator - Create Cont](https://ray32.net) - Stop storyboarding.
+- [ScreenCursor](https://screencursor.com) - Record your screen and get back a finished video with the camera moves already in place.
 
 ## 🎨 Image, Design & 3D
 
@@ -963,6 +968,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PromptToVisual](https://prompttovisual.com) - Generate images from text, edit a reference photo, and download your results.
 - [Image3D](https://image3d.io) - Upload one image or enter one short prompt, preview the 3D mesh in browser, and export OBJ, STL, GLB or PLY when the result looks right.
 - [ABrush](https://abrush.ai) - ABrush brings leading AI models and production-ready advanced AI workflows into the environment where artists already work.
+- [SHIUI](https://shi-ui.vercel.app) - SHIUI — a flat ink UI kit in the spirit of Hinomaru Japanese posters.
 
 ## ✍️ Writing & Content
 
@@ -1026,6 +1032,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tidy](https://greene-squares.github.io/tidy-releases/) - Fix spelling and grammar anywhere on your Mac.
 - [Moji](https://alexishida.com/moji) - Open Markdown like a document: fast, clean, and distraction-free.
 - [Marked Share](https://share.markedapp.com) - Marked Share is a subproduct of Marked 3, but doesn't require Marked to use.
+- [GhostWriter by MyHandler](https://myhandler.ai/ghostwriter) - Every other AI writes what you tell it.
 
 ## 📊 Analytics & Data
 
@@ -1361,6 +1368,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Relic](https://relic.space) - Relic remembers everything you copy, understands it on-device, and syncs it across your phones and computers, sealed so only you can read it.
 - [Work Life Panda](https://worklifepanda.com) - Your week lives in a calendar, your to-dos in a list, your plans in a group chat.
 - [DockFix](https://www.dockfix.app) - DockFix is a powerful macOS Dock replacement that transforms your native dock into an ultra-customizable command center.
+- [Kirokune](https://kirokune.com/en/) - Keep work incident notes, recordings and photos in an iPhone timeline.
+- [Resurf](https://resurf.so) - Resurf is a personal context app for things you like, care about, and work on.
 
 ## 🔎 Search & Discovery
 
