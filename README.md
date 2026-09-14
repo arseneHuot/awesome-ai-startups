@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (146)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (186)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (324)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (149)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (187)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (325)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (93)
 - [🎬 Video & Animation](#video-animation) (78)
-- [🎨 Image, Design & 3D](#image-design-3d) (97)
+- [🎨 Image, Design & 3D](#image-design-3d) (99)
 - [✍️ Writing & Content](#writing-content) (61)
-- [📊 Analytics & Data](#analytics-data) (87)
-- [🗂 Productivity & Notes](#productivity-notes) (243)
-- [🔎 Search & Discovery](#search-discovery) (46)
+- [📊 Analytics & Data](#analytics-data) (88)
+- [🗂 Productivity & Notes](#productivity-notes) (245)
+- [🔎 Search & Discovery](#search-discovery) (47)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (47)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (148)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (150)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (33)
 - [👥 Social & Community](#social-community) (25)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
-- [✨ Everything Else](#everything-else) (118)
+- [✨ Everything Else](#everything-else) (120)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -174,6 +174,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Neopress](https://neopress.ai) - Build and grow your website in one AI-powered loop.
 - [DemoTV](https://www.demotv.lol) - DemoTV is a 24/7 channel of product demos, ranked by the people watching.
 - [Visiby](https://visiby.net) - Visiby helps brands measure, understand, and improve their visibility across AI search platforms like ChatGPT, Perplexity, Gemini, and Google AI Overviews.
+- [LLMagnet](https://llmagnet.com) - LLMagnet gives WordPress sites an AI visibility layer.
+- [Hello Inbox](https://www.helloinbox.email) - Hello Inbox helps businesses and marketers maximize inbox placement for email marketing campaigns.
+- [Naoma AI Demo Agent](https://naoma.ai) - Turn “Book a demo” into “Get an AI demo now.” Naoma is the first video AI demo agent for B2B SaaS that delivers live, personalized demos in-browser 24/7 in any language. It clicks through real….
 
 ## 🤖 AI Agents & Assistants
 
@@ -363,6 +366,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MagiCrew](https://www.magicrew.ai) - MagiCrew is an open-source AI Agent platform that gives everyone their own AI workforce.
 - [Tadata](https://www.tadata.com) - Tadata is the AI employee that lives in your Slack.
 - [Muse by Meta](https://muse.ai) - Try Muse, your personal AI agent that gets things done.
+- [Aside](https://aside.com) - Aside is a browser rebuilt for people and agents.
 
 ## 💻 Coding & Developer Tools
 
@@ -691,6 +695,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [easyspecs.ai](https://easyspecs.ai) - The gap between 1.5x and 100x isn't speed, it's trust!! AI agents generate code 100x faster than humans write it. But your team can't review it all. EasySpecs documents undocumented codebases and….
 - [Stackness](https://stackness.dev) - Stackness is where developers and vibe coders show the tools, workflows, and approaches they build with.
 - [Cognition's SWE-2](https://cognition.com/blog/swe-2) - SWE-2 is Cognition's new coding model, post-trained from Kimi K3 with RL that optimizes for cost and capability at the same time.
+- [Juggler](https://juggler.studio) - Juggler is a desktop workbench for AI coding agents.
 
 ## 🎙 Audio, Voice & Music
 
@@ -969,6 +974,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Image3D](https://image3d.io) - Upload one image or enter one short prompt, preview the 3D mesh in browser, and export OBJ, STL, GLB or PLY when the result looks right.
 - [ABrush](https://abrush.ai) - ABrush brings leading AI models and production-ready advanced AI workflows into the environment where artists already work.
 - [SHIUI](https://shi-ui.vercel.app) - SHIUI — a flat ink UI kit in the spirit of Hinomaru Japanese posters.
+- [Image to ASCII](https://imagetoascii.art) - Give your README a signature, your Discord a mascot, or your next blog post a character-art cover.
+- [appdesigns](https://appdesigns.click) - appdesigns is a free, in-browser editor for App Store and Google Play screenshots.
 
 ## ✍️ Writing & Content
 
@@ -1124,6 +1131,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TrackMCP](https://www.trackmcp.com) - TrackMCP shows who is using your MCP server, what they are trying to do, whether the work gets done, and where to improve.
 - [Viso Now](https://viso.ai) - Viso Now is a self-building AI vision platform that turns images, video, and camera feeds into working computer vision applications.
 - [OpenObserve](https://openobserve.ai) - Fast, scalable and cost-effective open-source observability platform.
+- [Build or Skip](https://buildorskip.dev) - Build or Skip is a product research and market validation tool for builders, indie hackers, and SaaS teams.
 
 ## 🗂 Productivity & Notes
 
@@ -1370,6 +1378,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DockFix](https://www.dockfix.app) - DockFix is a powerful macOS Dock replacement that transforms your native dock into an ultra-customizable command center.
 - [Kirokune](https://kirokune.com/en/) - Keep work incident notes, recordings and photos in an iPhone timeline.
 - [Resurf](https://resurf.so) - Resurf is a personal context app for things you like, care about, and work on.
+- [OzBrain](https://ozbrain.com) - Your Dropbox for agent knowledge (it works without you having to "work" it or maintain it.) Every agent you use reads and writes to the same brain, and so do your teammates and theirs. Start a new….
+- [Oats](https://ariso.ai/oats) - Oats is an AI meeting note-taking tool that is completely open, local, and free.
 
 ## 🔎 Search & Discovery
 
@@ -1419,6 +1429,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Notify.domains](https://notify.domains) - Most people who want a specific domain name have no way to know when a real opportunity to acquire it appears.
 - [chat-recall](https://chatrecall.dev) - Your team has done months of work with AI assistants.
 - [AI Tool Finder](https://aitoolfinder.org) - AI Tool Finder helps users discover and compare free AI tools across writing, image, video, coding, and productivity use cases.
+- [Web Search Agents by Nimble](https://nimbleway.com/web-search-agents) - Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources….
 
 ## 🎓 Education & Learning
 
@@ -1700,6 +1711,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cadenya](https://www.cadenya.com) - Cadenya is not a framework you bolt into your application stack.
 - [Pascal’s Pager](https://www.pascelspages.com) - Stop writing a parser for every service.
 - [Cortex](https://cortexdocs.dev) - Cortex is an open source API knowledge layer that turns OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC specs into interactive documentation, typed SDKs in 11 languages, and MCP servers for AI agents.
+- [Deplo](https://deplo.build) - Same push-to-deploy you already know, running on a machine you already pay for.
+- [Elva](https://getelva.ai) - Developers use your APIs.
 
 ## 💬 Chatbots & Conversational
 
@@ -1904,6 +1917,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WorkID.ai](https://workid.ai) - We've rebuilt the way hiring works.
 - [DuckFightClub](https://duckfight.club) - Imagine WWE SmackDown, but with cute, AI-trained robots.
 - [Kabza](https://www.playkabza.com) - Turn Noida, Delhi, Gurugram or Bengaluru into a battle with friends.
+- [Afterglow](https://morphing.cloud/afterglow/) - Afterglow runs classic After Dark screen saver modules — Flying Toasters, Fish!, Starry Skyline, and more — natively on macOS, with no ROMs required.
+- [AppZapper](https://www.appzapper.com) - AppZapper is an application for Apple's macOS developed by Austin Sarner and Brian Ball.
 
 ## Contributing
 
