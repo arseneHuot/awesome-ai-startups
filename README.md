@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (149)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (187)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (152)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (188)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (325)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (93)
-- [🎬 Video & Animation](#video-animation) (78)
-- [🎨 Image, Design & 3D](#image-design-3d) (99)
-- [✍️ Writing & Content](#writing-content) (61)
-- [📊 Analytics & Data](#analytics-data) (88)
-- [🗂 Productivity & Notes](#productivity-notes) (245)
+- [🎬 Video & Animation](#video-animation) (79)
+- [🎨 Image, Design & 3D](#image-design-3d) (100)
+- [✍️ Writing & Content](#writing-content) (62)
+- [📊 Analytics & Data](#analytics-data) (89)
+- [🗂 Productivity & Notes](#productivity-notes) (246)
 - [🔎 Search & Discovery](#search-discovery) (47)
-- [🎓 Education & Learning](#education-learning) (36)
+- [🎓 Education & Learning](#education-learning) (37)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (47)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (150)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (152)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (33)
 - [👥 Social & Community](#social-community) (25)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
-- [✨ Everything Else](#everything-else) (120)
+- [✨ Everything Else](#everything-else) (122)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -177,6 +177,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [LLMagnet](https://llmagnet.com) - LLMagnet gives WordPress sites an AI visibility layer.
 - [Hello Inbox](https://www.helloinbox.email) - Hello Inbox helps businesses and marketers maximize inbox placement for email marketing campaigns.
 - [Naoma AI Demo Agent](https://naoma.ai) - Turn “Book a demo” into “Get an AI demo now.” Naoma is the first video AI demo agent for B2B SaaS that delivers live, personalized demos in-browser 24/7 in any language. It clicks through real….
+- [Idlen](https://idlen.io) - Developers wait on AI all day.
+- [Anthropologic](https://anthropologic.quilt.ai) - Traditional research is deep but slow.
+- [siift](https://siift.ai) - Building a business with AI can quickly become a mess of chats, tools, ideas, and conflicting advice.
 
 ## 🤖 AI Agents & Assistants
 
@@ -367,6 +370,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tadata](https://www.tadata.com) - Tadata is the AI employee that lives in your Slack.
 - [Muse by Meta](https://muse.ai) - Try Muse, your personal AI agent that gets things done.
 - [Aside](https://aside.com) - Aside is a browser rebuilt for people and agents.
+- [Axari](https://axari.ai) - Your Axari AI twin understands your security world, works across your tools and teams, and keeps work moving until it is actually done.
 
 ## 💻 Coding & Developer Tools
 
@@ -873,6 +877,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Veevid AI](https://veevid.ai) - Turn text, images, or videos into cinematic AI videos with audio - no editing needed.
 - [Ray 3.2 AI Video Generator - Create Cont](https://ray32.net) - Stop storyboarding.
 - [ScreenCursor](https://screencursor.com) - Record your screen and get back a finished video with the camera moves already in place.
+- [Narrative](https://usenarrative.ai) - Narrative brings video editing, custom motion graphics, and reference-video style matching into one interface.
 
 ## 🎨 Image, Design & 3D
 
@@ -976,6 +981,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SHIUI](https://shi-ui.vercel.app) - SHIUI — a flat ink UI kit in the spirit of Hinomaru Japanese posters.
 - [Image to ASCII](https://imagetoascii.art) - Give your README a signature, your Discord a mascot, or your next blog post a character-art cover.
 - [appdesigns](https://appdesigns.click) - appdesigns is a free, in-browser editor for App Store and Google Play screenshots.
+- [Proofrr](https://proofrr.com) - Feedback in WhatsApp.
 
 ## ✍️ Writing & Content
 
@@ -1040,6 +1046,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Moji](https://alexishida.com/moji) - Open Markdown like a document: fast, clean, and distraction-free.
 - [Marked Share](https://share.markedapp.com) - Marked Share is a subproduct of Marked 3, but doesn't require Marked to use.
 - [GhostWriter by MyHandler](https://myhandler.ai/ghostwriter) - Every other AI writes what you tell it.
+- [Voiskey](https://www.voiskey.ai) - Voiskey starts from what you meant, not just what you said.
 
 ## 📊 Analytics & Data
 
@@ -1132,6 +1139,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Viso Now](https://viso.ai) - Viso Now is a self-building AI vision platform that turns images, video, and camera feeds into working computer vision applications.
 - [OpenObserve](https://openobserve.ai) - Fast, scalable and cost-effective open-source observability platform.
 - [Build or Skip](https://buildorskip.dev) - Build or Skip is a product research and market validation tool for builders, indie hackers, and SaaS teams.
+- [FATHER](https://coastcreative.studio/apps/father) - A mission-control dashboard for teams shipping on Vercel.
 
 ## 🗂 Productivity & Notes
 
@@ -1380,6 +1388,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Resurf](https://resurf.so) - Resurf is a personal context app for things you like, care about, and work on.
 - [OzBrain](https://ozbrain.com) - Your Dropbox for agent knowledge (it works without you having to "work" it or maintain it.) Every agent you use reads and writes to the same brain, and so do your teammates and theirs. Start a new….
 - [Oats](https://ariso.ai/oats) - Oats is an AI meeting note-taking tool that is completely open, local, and free.
+- [PeekPaste](https://lucidbit.app/PeekPaste/peekpaste.html) - PeekPaste is a native clipboard manager for Mac that stays out of your way until you need it.
 
 ## 🔎 Search & Discovery
 
@@ -1470,6 +1479,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Orato](https://orato.tepoyan.com) - Pick a drill, speak for 30 to 90 seconds, and get scored on pacing, fluency, vocabulary and coherence.
 - [Readr](https://readr-ai.github.io) - Readr is an ebook reader you can talk to.
 - [myAIcademy](https://www.myaicademy.com) - myAIcademy builds personalized AI training around your role, goals, and the tools you actually use.
+- [Workshopy.io](https://workshopy.io) - Write a workshop as one plain Markdown file and run it live.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1713,6 +1723,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cortex](https://cortexdocs.dev) - Cortex is an open source API knowledge layer that turns OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC specs into interactive documentation, typed SDKs in 11 languages, and MCP servers for AI agents.
 - [Deplo](https://deplo.build) - Same push-to-deploy you already know, running on a machine you already pay for.
 - [Elva](https://getelva.ai) - Developers use your APIs.
+- [Buddy Works](https://buddy.works) - Host apps and websites, spin up Sandboxes, manage domains, run tests, deploy to any cloud, and automate delivery with pipelines, all in one platform.
+- [tiun.](https://tiun.io) - One system for auth, payments, customer data, and analytics.
 
 ## 💬 Chatbots & Conversational
 
@@ -1919,6 +1931,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kabza](https://www.playkabza.com) - Turn Noida, Delhi, Gurugram or Bengaluru into a battle with friends.
 - [Afterglow](https://morphing.cloud/afterglow/) - Afterglow runs classic After Dark screen saver modules — Flying Toasters, Fish!, Starry Skyline, and more — natively on macOS, with no ROMs required.
 - [AppZapper](https://www.appzapper.com) - AppZapper is an application for Apple's macOS developed by Austin Sarner and Brian Ball.
+- [Mac Duo](https://macduo.co.uk) - A macOS app that turns your display into frosted glass as you close the lid.
+- [DynamicLake](https://www.dynamiclake.com) - DynamicLake brings the Dynamic Island to Mac, featuring music, weather, calendar, Calls notifications, message notifications and custom plugins and live activities It also supports drag and drop….
 
 ## Contributing
 
