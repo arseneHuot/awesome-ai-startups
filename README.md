@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (152)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (153)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (188)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (325)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (326)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (93)
-- [🎬 Video & Animation](#video-animation) (79)
+- [🎬 Video & Animation](#video-animation) (80)
 - [🎨 Image, Design & 3D](#image-design-3d) (100)
 - [✍️ Writing & Content](#writing-content) (62)
 - [📊 Analytics & Data](#analytics-data) (89)
-- [🗂 Productivity & Notes](#productivity-notes) (246)
+- [🗂 Productivity & Notes](#productivity-notes) (249)
 - [🔎 Search & Discovery](#search-discovery) (47)
 - [🎓 Education & Learning](#education-learning) (37)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (47)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (152)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (154)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (33)
-- [👥 Social & Community](#social-community) (25)
+- [👥 Social & Community](#social-community) (26)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
-- [✨ Everything Else](#everything-else) (122)
+- [✨ Everything Else](#everything-else) (123)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -180,6 +180,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Idlen](https://idlen.io) - Developers wait on AI all day.
 - [Anthropologic](https://anthropologic.quilt.ai) - Traditional research is deep but slow.
 - [siift](https://siift.ai) - Building a business with AI can quickly become a mess of chats, tools, ideas, and conflicting advice.
+- [Convo](https://www.itsconvo.com) - Convo helps you win more deals by giving the right support while the conversation is happening.
 
 ## 🤖 AI Agents & Assistants
 
@@ -700,6 +701,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stackness](https://stackness.dev) - Stackness is where developers and vibe coders show the tools, workflows, and approaches they build with.
 - [Cognition's SWE-2](https://cognition.com/blog/swe-2) - SWE-2 is Cognition's new coding model, post-trained from Kimi K3 with RL that optimizes for cost and capability at the same time.
 - [Juggler](https://juggler.studio) - Juggler is a desktop workbench for AI coding agents.
+- [Weave Engineering Intelligence](https://weaveos.com) - Weave understands engineering work by combining LLMs and domain-specific machine learning.
 
 ## 🎙 Audio, Voice & Music
 
@@ -878,6 +880,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ray 3.2 AI Video Generator - Create Cont](https://ray32.net) - Stop storyboarding.
 - [ScreenCursor](https://screencursor.com) - Record your screen and get back a finished video with the camera moves already in place.
 - [Narrative](https://usenarrative.ai) - Narrative brings video editing, custom motion graphics, and reference-video style matching into one interface.
+- [CreatorHat](https://creatorhat.com) - Find videos outperforming their channels, research YouTube keywords, and track your search rankings without leaving Safari.
 
 ## 🎨 Image, Design & 3D
 
@@ -1389,6 +1392,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OzBrain](https://ozbrain.com) - Your Dropbox for agent knowledge (it works without you having to "work" it or maintain it.) Every agent you use reads and writes to the same brain, and so do your teammates and theirs. Start a new….
 - [Oats](https://ariso.ai/oats) - Oats is an AI meeting note-taking tool that is completely open, local, and free.
 - [PeekPaste](https://lucidbit.app/PeekPaste/peekpaste.html) - PeekPaste is a native clipboard manager for Mac that stays out of your way until you need it.
+- [PhraseVault](https://phrasevault.app) - PhraseVault 3.0 is a local snippet manager for the replies, SQL, and templates you type every day. Search, expand with variables, insert into any app. New in 3.0: lock bank details and other….
+- [Project Feed](https://projectfeed.app) - Project Feed is a workspace for game developers, design teams and agencies.
+- [Jottoo](https://jottoo.com) - Jottoo turns meetings and notes into organised, deadline-tracked tasks — automatically.
 
 ## 🔎 Search & Discovery
 
@@ -1725,6 +1731,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Elva](https://getelva.ai) - Developers use your APIs.
 - [Buddy Works](https://buddy.works) - Host apps and websites, spin up Sandboxes, manage domains, run tests, deploy to any cloud, and automate delivery with pipelines, all in one platform.
 - [tiun.](https://tiun.io) - One system for auth, payments, customer data, and analytics.
+- [Twigg](https://twigg.ai) - Twigg is a stateful API for interacting with LLMs with no lock-in.
+- [Appwrite](https://appwrite.io) - Appwrite is an open-source cloud development platform designed for developers who want to get things done.
 
 ## 💬 Chatbots & Conversational
 
@@ -1789,6 +1797,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PostBox](https://postbox.sh) - PostBox turns the MacBook notch into a drag and drop poster for the work you make.
 - [Nametag](https://nametagai.com) - People love you when you remember their name.
 - [Whip](https://whip.run) - Whip is a feed for the interactive expeirences.
+- [flat.social](https://flat.social) - Flat.social is a playful virtual space for remote teams, classes and communities. Walk up to people and talk naturally with spatial audio, share your screen, present slides or sketch on a….
 
 ## 🛒 E-commerce & Retail
 
@@ -1933,6 +1942,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AppZapper](https://www.appzapper.com) - AppZapper is an application for Apple's macOS developed by Austin Sarner and Brian Ball.
 - [Mac Duo](https://macduo.co.uk) - A macOS app that turns your display into frosted glass as you close the lid.
 - [DynamicLake](https://www.dynamiclake.com) - DynamicLake brings the Dynamic Island to Mac, featuring music, weather, calendar, Calls notifications, message notifications and custom plugins and live activities It also supports drag and drop….
+- [PeakHour](https://peakhour.app) - PeakHour 6 is a real-time network monitor for your Mac.
 
 ## Contributing
 
