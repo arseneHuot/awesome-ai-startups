@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (153)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (188)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (326)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (93)
-- [🎬 Video & Animation](#video-animation) (80)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (154)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (189)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (330)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (94)
+- [🎬 Video & Animation](#video-animation) (81)
 - [🎨 Image, Design & 3D](#image-design-3d) (100)
 - [✍️ Writing & Content](#writing-content) (62)
-- [📊 Analytics & Data](#analytics-data) (89)
+- [📊 Analytics & Data](#analytics-data) (91)
 - [🗂 Productivity & Notes](#productivity-notes) (249)
-- [🔎 Search & Discovery](#search-discovery) (47)
+- [🔎 Search & Discovery](#search-discovery) (48)
 - [🎓 Education & Learning](#education-learning) (37)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (47)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (49)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (154)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (33)
-- [👥 Social & Community](#social-community) (26)
+- [👥 Social & Community](#social-community) (27)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
-- [✨ Everything Else](#everything-else) (123)
+- [✨ Everything Else](#everything-else) (125)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -181,6 +181,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Anthropologic](https://anthropologic.quilt.ai) - Traditional research is deep but slow.
 - [siift](https://siift.ai) - Building a business with AI can quickly become a mess of chats, tools, ideas, and conflicting advice.
 - [Convo](https://www.itsconvo.com) - Convo helps you win more deals by giving the right support while the conversation is happening.
+- [Figo](https://tryfigo.com) - Figo watches your competitors so you do not have to.
 
 ## 🤖 AI Agents & Assistants
 
@@ -372,6 +373,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Muse by Meta](https://muse.ai) - Try Muse, your personal AI agent that gets things done.
 - [Aside](https://aside.com) - Aside is a browser rebuilt for people and agents.
 - [Axari](https://axari.ai) - Your Axari AI twin understands your security world, works across your tools and teams, and keeps work moving until it is actually done.
+- [Text Agent Store](https://www.imessage.store) - Meet all the agents you can text.
 
 ## 💻 Coding & Developer Tools
 
@@ -702,6 +704,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cognition's SWE-2](https://cognition.com/blog/swe-2) - SWE-2 is Cognition's new coding model, post-trained from Kimi K3 with RL that optimizes for cost and capability at the same time.
 - [Juggler](https://juggler.studio) - Juggler is a desktop workbench for AI coding agents.
 - [Weave Engineering Intelligence](https://weaveos.com) - Weave understands engineering work by combining LLMs and domain-specific machine learning.
+- [Compute:Arena](https://computearena.ai) - Community-submitted performance benchmarks for local AI models on any hardware, any runtime, any quantisation.
+- [MCPJam](https://www.mcpjam.com) - MCPJam is the first testing & evaluations platform for MCP servers.
+- [Modaal](https://modaal.dev) - Modaal turns your idea into real native iOS and Android apps - and builds both at once.
+- [Bitrise](https://www.bitrise.io) - Bitrise is the leading mobile DevOps platform, empowering over 8,500 brands worldwide including Generali, Shopify, TripAdvisor and BuzzFeed.
 
 ## 🎙 Audio, Voice & Music
 
@@ -798,6 +804,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Subanana](https://subanana.com) - Most transcription tools lock everything to one AI vendor - great for English, rough for everything else.
 - [GiftableSong](https://giftablesong.com) - Turn your memories into a personalized song gift.
 - [VoxelWall](https://voxelwall.app) - VoxelWall is a native macOS live wallpaper engine with 37 original scenes that react in real time to whatever your Mac is playing.
+- [NovaSynth by Noveum](https://noveum.ai/en/novasynth) - Simulate realistic callers at scale with custom personas, scenarios, interruptions, noise, accents, and network conditions.
 
 ## 🎬 Video & Animation
 
@@ -881,6 +888,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ScreenCursor](https://screencursor.com) - Record your screen and get back a finished video with the camera moves already in place.
 - [Narrative](https://usenarrative.ai) - Narrative brings video editing, custom motion graphics, and reference-video style matching into one interface.
 - [CreatorHat](https://creatorhat.com) - Find videos outperforming their channels, research YouTube keywords, and track your search rankings without leaving Safari.
+- [Zella](https://zellahq.com) - Zella records your screen or camera and edits the video for you, on your own Mac or iPhone.
 
 ## 🎨 Image, Design & 3D
 
@@ -1143,6 +1151,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenObserve](https://openobserve.ai) - Fast, scalable and cost-effective open-source observability platform.
 - [Build or Skip](https://buildorskip.dev) - Build or Skip is a product research and market validation tool for builders, indie hackers, and SaaS teams.
 - [FATHER](https://coastcreative.studio/apps/father) - A mission-control dashboard for teams shipping on Vercel.
+- [Axiom](http://partners.axiom.co/ph) - The modern machine data platform — Petabyte-scale, schema-less ingest on a fully managed event store, so you keep every byte without the operational cost of running it yourself.
+- [TinyKPI](https://tinykpi.app) - Connect the tools you already usefrom Stripe and PostHog to Google Analytics and your own database.
 
 ## 🗂 Productivity & Notes
 
@@ -1445,6 +1455,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [chat-recall](https://chatrecall.dev) - Your team has done months of work with AI assistants.
 - [AI Tool Finder](https://aitoolfinder.org) - AI Tool Finder helps users discover and compare free AI tools across writing, image, video, coding, and productivity use cases.
 - [Web Search Agents by Nimble](https://nimbleway.com/web-search-agents) - Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources….
+- [Opyt](https://useopyt.com) - Opyt turns the people and topics you already follow into a knowledge base.
 
 ## 🎓 Education & Learning
 
@@ -1576,6 +1587,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SODAX SDK](https://www.sodax.com) - SODAX provides a highly customizable execution system to build stablecoin, crypto and real world asset transactions.
 - [Wealthfolio](https://wealthfolio.app) - Wealthfolio is an open-source, local-first app for tracking investments, net worth, spending and financial goals.
 - [Accordio AI](https://accordio.ai) - Track time, draft invoices, sign contracts, get paid.
+- [Pitchfire for Startups](https://pitchfire.com/startups) - Pitchfire for Startups is a new channel to reach investors.
+- [Creem](https://www.creem.io) - CREEM is the money platform for the AI building era: sell software and digital products globally, with payments, taxes, payouts, affiliates and usage billing handled for you.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1798,6 +1811,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nametag](https://nametagai.com) - People love you when you remember their name.
 - [Whip](https://whip.run) - Whip is a feed for the interactive expeirences.
 - [flat.social](https://flat.social) - Flat.social is a playful virtual space for remote teams, classes and communities. Walk up to people and talk naturally with spatial audio, share your screen, present slides or sketch on a….
+- [Die With Me](https://diewithme.co) - An AIM buddy list for your AI usage.
 
 ## 🛒 E-commerce & Retail
 
@@ -1943,6 +1957,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mac Duo](https://macduo.co.uk) - A macOS app that turns your display into frosted glass as you close the lid.
 - [DynamicLake](https://www.dynamiclake.com) - DynamicLake brings the Dynamic Island to Mac, featuring music, weather, calendar, Calls notifications, message notifications and custom plugins and live activities It also supports drag and drop….
 - [PeakHour](https://peakhour.app) - PeakHour 6 is a real-time network monitor for your Mac.
+- [MacSentinel](https://sentinel.digital/download) - MacSentinel brings Mac monitoring, diagnosis, storage analysis, and cleanup into one native workflow.
+- [Blanc](https://blancbrowser.com) - Blanc is a free desktop browser for macOS, Windows and Linux.
 
 ## Contributing
 
