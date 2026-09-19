@@ -11,20 +11,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (191)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (330)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (95)
-- [🎬 Video & Animation](#video-animation) (83)
+- [🎬 Video & Animation](#video-animation) (84)
 - [🎨 Image, Design & 3D](#image-design-3d) (100)
 - [✍️ Writing & Content](#writing-content) (62)
 - [📊 Analytics & Data](#analytics-data) (91)
-- [🗂 Productivity & Notes](#productivity-notes) (250)
+- [🗂 Productivity & Notes](#productivity-notes) (253)
 - [🔎 Search & Discovery](#search-discovery) (48)
 - [🎓 Education & Learning](#education-learning) (40)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (38)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (154)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (34)
 - [👥 Social & Community](#social-community) (28)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
-- [✨ Everything Else](#everything-else) (126)
+- [✨ Everything Else](#everything-else) (127)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -895,6 +895,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Zella](https://zellahq.com) - Zella records your screen or camera and edits the video for you, on your own Mac or iPhone.
 - [Bring Them to Life](https://bringthemtolife.xyz) - Bring Them to Life helps builders make their apps feel welcoming, memorable, and personal.
 - [Stivio](https://stivio.ai) - Stivio is an image to video AI generator.
+- [Lumiko](https://lumiko.dev) - Lumiko records your screen and edits the footage while you work.
 
 ## 🎨 Image, Design & 3D
 
@@ -1412,6 +1413,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Project Feed](https://projectfeed.app) - Project Feed is a workspace for game developers, design teams and agencies.
 - [Jottoo](https://jottoo.com) - Jottoo turns meetings and notes into organised, deadline-tracked tasks — automatically.
 - [Ariso](https://ariso.ai/PH2026) - Everything you do at work needs "managing": projects, tasks, priorities, customers, meetings, teams, strategy.
+- [BiBimba](https://bibimba.mamama.company) - Clipboard history and screenshots, searchable together.
+- [Punch](https://itspunch.app) - You’re on vacation with your friends and you need to know the AirBnB address, the door code, the rendezvous spot, etc.
+- [VoiceCap](https://voicecap.ai) - Most AI notetakers are strong in English and mediocre in everything else.
 
 ## 🔎 Search & Discovery
 
@@ -1548,6 +1552,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lubb](https://thelubb.com) - Lubb turns an iPhone into a slow, realistic heartbeat you can place under the edge of your pillow.
 - [Mossy](https://heymossy.com) - Mossy is a small plant that lives on your Mac desktop.
 - [Maaa](https://www.maaa.app) - Meet Maaa, a familiar face in your Mac’s notch.
+- [Lull](https://lullme.app) - Lull doesn't play recordings.
+- [Mantra Timer](https://mantratimer.app) - Mantra Meditation Timer rejects the bloated tracking of modern wellness apps.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1974,6 +1980,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MacSentinel](https://sentinel.digital/download) - MacSentinel brings Mac monitoring, diagnosis, storage analysis, and cleanup into one native workflow.
 - [Blanc](https://blancbrowser.com) - Blanc is a free desktop browser for macOS, Windows and Linux.
 - [citizen404](https://www.citizen404.com) - One citizen has escaped the Supreme AGI.
+- [Robot Recipes](https://robotrecipes.co) - Robot Recipes has thousands of real food recipes for humans, created by AI.
 
 ## Contributing
 
