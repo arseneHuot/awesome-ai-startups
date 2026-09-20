@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (155)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (191)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (330)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (95)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (157)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (192)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (331)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (96)
 - [🎬 Video & Animation](#video-animation) (84)
-- [🎨 Image, Design & 3D](#image-design-3d) (100)
+- [🎨 Image, Design & 3D](#image-design-3d) (101)
 - [✍️ Writing & Content](#writing-content) (62)
 - [📊 Analytics & Data](#analytics-data) (91)
-- [🗂 Productivity & Notes](#productivity-notes) (253)
+- [🗂 Productivity & Notes](#productivity-notes) (256)
 - [🔎 Search & Discovery](#search-discovery) (48)
-- [🎓 Education & Learning](#education-learning) (40)
+- [🎓 Education & Learning](#education-learning) (41)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (154)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (34)
 - [👥 Social & Community](#social-community) (28)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (16)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (17)
 - [✨ Everything Else](#everything-else) (127)
 
 ## 📣 Marketing, SEO & Sales
@@ -183,6 +183,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Convo](https://www.itsconvo.com) - Convo helps you win more deals by giving the right support while the conversation is happening.
 - [Figo](https://tryfigo.com) - Figo watches your competitors so you do not have to.
 - [Ami AI](https://aisdr.com/ai-gtm-agent-ami/) - Most outbound dies on one decision: who to write to this week.
+- [ManyPI](https://manypi.com) - Define your ideal customer.
+- [Morsa Signals](https://signals.morsa.io) - Morsa Signals gives developer-tool founders and GTM teams practical GTM and SEO/GEO workflows in one place.
 
 ## 🤖 AI Agents & Assistants
 
@@ -377,6 +379,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Text Agent Store](https://www.imessage.store) - Meet all the agents you can text.
 - [Toone](https://www.trytoone.com) - Toone is your layer for crafting complex, deterministic workflows and automations with AI Agents.
 - [Sider Omni Sidebar](https://sider.ai/lab/sider-omni) - An AI agent beside any Mac app.
+- [Mycel](https://mycelai.dev) - Mycel runs the work your service business sells - clients, deliverables, approvals, invoices.
 
 ## 💻 Coding & Developer Tools
 
@@ -711,6 +714,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MCPJam](https://www.mcpjam.com) - MCPJam is the first testing & evaluations platform for MCP servers.
 - [Modaal](https://modaal.dev) - Modaal turns your idea into real native iOS and Android apps - and builds both at once.
 - [Bitrise](https://www.bitrise.io) - Bitrise is the leading mobile DevOps platform, empowering over 8,500 brands worldwide including Generali, Shopify, TripAdvisor and BuzzFeed.
+- [Termphin](https://termphin.dev) - SSH that survives a locked phone, a lost signal or a switch to mobile data.
 
 ## 🎙 Audio, Voice & Music
 
@@ -809,6 +813,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [VoxelWall](https://voxelwall.app) - VoxelWall is a native macOS live wallpaper engine with 37 original scenes that react in real time to whatever your Mac is playing.
 - [NovaSynth by Noveum](https://noveum.ai/en/novasynth) - Simulate realistic callers at scale with custom personas, scenarios, interruptions, noise, accents, and network conditions.
 - [MosMos](https://mosmos.io) - MosMos goes beyond voice dictation by turning both individual thoughts and group conversations into usable writing.
+- [The 101 Plays Itself](https://jayjudah.com/101/) - A live Caltrans traffic camera on the US-101 in Studio City, playing itself as music in your browser.
 
 ## 🎬 Video & Animation
 
@@ -1000,6 +1005,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Image to ASCII](https://imagetoascii.art) - Give your README a signature, your Discord a mascot, or your next blog post a character-art cover.
 - [appdesigns](https://appdesigns.click) - appdesigns is a free, in-browser editor for App Store and Google Play screenshots.
 - [Proofrr](https://proofrr.com) - Feedback in WhatsApp.
+- [Edit Text in Image - Keep the Original L](https://edittextinimage.pro) - Edit text in image online with AI.
 
 ## ✍️ Writing & Content
 
@@ -1416,6 +1422,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BiBimba](https://bibimba.mamama.company) - Clipboard history and screenshots, searchable together.
 - [Punch](https://itspunch.app) - You’re on vacation with your friends and you need to know the AirBnB address, the door code, the rendezvous spot, etc.
 - [VoiceCap](https://voicecap.ai) - Most AI notetakers are strong in English and mediocre in everything else.
+- [SmartPause](https://smartpause.yasinozmeen.me) - macOS routes the media key to whatever it last remembers, so YouTube keeps playing and Apple Music opens.
+- [Launchie](https://www.launchie.app) - Apple removed Launchpad in macOS 26 and kept it out of 27.
+- [Harbor](https://harbor.my) - A private second brain: notes, scans, PDFs and recordings, searchable with OCR, handwriting included.
 
 ## 🔎 Search & Discovery
 
@@ -1511,6 +1520,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WhaleRead](https://whaleread-astra.kunyu575.chatgpt.site) - WhaleRead is a local-first macOS reader that translates TXT, Markdown, and EPUB with on-device 7B or self-hosted 30B private models, preserves bilingual reading, and adds human-confirmed review….
 - [Keysake](https://keysake.ai) - Learn English as you type Chinese.
 - [AINA](https://aina-tech.io/candidate) - AINA is an AI career coach that helps you see what's holding your job search back, strengthen your profile, and practice for interviews — through conversations with a video avatar.
+- [YABAI](https://yabai-app.pages.dev) - Textbooks teach Japanese that stops at the classroom door.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1851,6 +1861,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Athena by Shoplazza](https://www.shoplaza.ai) - Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy.
 - [Ask My Wardrobe](https://askmywardrobe.com) - Ask My Wardrobe is an AI outfit generator and outfit planner that makes it easier to get dressed, plan better looks, and shop with more confidence.
 - [OpenMarket](https://openmarket.m11.ai) - What if marketplaces rewarded the best product instead of the best marketing?.
+- [Minicart](https://minicart.com/?promo=PH2026) - Minicart helps makers, creators, and resellers launch and run an online store without learning ecommerce software.
 
 ## ✨ Everything Else
 
