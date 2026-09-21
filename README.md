@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (157)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (192)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (331)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (160)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (193)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (333)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (96)
-- [🎬 Video & Animation](#video-animation) (84)
+- [🎬 Video & Animation](#video-animation) (86)
 - [🎨 Image, Design & 3D](#image-design-3d) (101)
 - [✍️ Writing & Content](#writing-content) (62)
-- [📊 Analytics & Data](#analytics-data) (91)
-- [🗂 Productivity & Notes](#productivity-notes) (256)
+- [📊 Analytics & Data](#analytics-data) (92)
+- [🗂 Productivity & Notes](#productivity-notes) (257)
 - [🔎 Search & Discovery](#search-discovery) (48)
 - [🎓 Education & Learning](#education-learning) (41)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (154)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (157)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (34)
-- [👥 Social & Community](#social-community) (28)
+- [👥 Social & Community](#social-community) (29)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (17)
 - [✨ Everything Else](#everything-else) (127)
 
@@ -185,6 +185,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ami AI](https://aisdr.com/ai-gtm-agent-ami/) - Most outbound dies on one decision: who to write to this week.
 - [ManyPI](https://manypi.com) - Define your ideal customer.
 - [Morsa Signals](https://signals.morsa.io) - Morsa Signals gives developer-tool founders and GTM teams practical GTM and SEO/GEO workflows in one place.
+- [Jevtown](https://jevtown.ivanhabor.com) - Write a post, a listing, a product or a headline, and 10,000 computed AI residents read it.
+- [Decode by Entropik](https://www.entropik.io/decode) - Decode by Entropik is a human insights platform for UX, consumer, and market research.
+- [Sell to State](https://selltostate.com) - Structured government procurement data around the globe — tenders, suppliers and agencies.
 
 ## 🤖 AI Agents & Assistants
 
@@ -380,6 +383,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Toone](https://www.trytoone.com) - Toone is your layer for crafting complex, deterministic workflows and automations with AI Agents.
 - [Sider Omni Sidebar](https://sider.ai/lab/sider-omni) - An AI agent beside any Mac app.
 - [Mycel](https://mycelai.dev) - Mycel runs the work your service business sells - clients, deliverables, approvals, invoices.
+- [Simular](https://simular.ai) - Simular is building the world’s first autonomous computers—systems that can use software like humans do.
 
 ## 💻 Coding & Developer Tools
 
@@ -715,6 +719,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Modaal](https://modaal.dev) - Modaal turns your idea into real native iOS and Android apps - and builds both at once.
 - [Bitrise](https://www.bitrise.io) - Bitrise is the leading mobile DevOps platform, empowering over 8,500 brands worldwide including Generali, Shopify, TripAdvisor and BuzzFeed.
 - [Termphin](https://termphin.dev) - SSH that survives a locked phone, a lost signal or a switch to mobile data.
+- [Gradio](https://www.gradio.app) - The fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere.
+- [Hyrax AI](https://hyrax.dev) - Autonomous code review and fixing for engineering teams.
 
 ## 🎙 Audio, Voice & Music
 
@@ -901,6 +907,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bring Them to Life](https://bringthemtolife.xyz) - Bring Them to Life helps builders make their apps feel welcoming, memorable, and personal.
 - [Stivio](https://stivio.ai) - Stivio is an image to video AI generator.
 - [Lumiko](https://lumiko.dev) - Lumiko records your screen and edits the footage while you work.
+- [Supacut](https://supacut.io) - Review hours of interview footage in minutes.
+- [Flicka](https://tryflicka.com) - Flicka records your screen with cinematic auto-zoom that follows your cursor, lets you polish it on a real timeline, annotate any screenshot, and export MP4, WebM or GIF.
 
 ## 🎨 Image, Design & 3D
 
@@ -1166,6 +1174,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FATHER](https://coastcreative.studio/apps/father) - A mission-control dashboard for teams shipping on Vercel.
 - [Axiom](http://partners.axiom.co/ph) - The modern machine data platform — Petabyte-scale, schema-less ingest on a fully managed event store, so you keep every byte without the operational cost of running it yourself.
 - [TinyKPI](https://tinykpi.app) - Connect the tools you already usefrom Stripe and PostHog to Google Analytics and your own database.
+- [Pinlytix · Pinterest analytics dashboard](https://pinlytix.com) - Pinterest analytics dashboard that helps creators, bloggers and digital product sellers rank, compare and understand their performance.
 
 ## 🗂 Productivity & Notes
 
@@ -1425,6 +1434,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SmartPause](https://smartpause.yasinozmeen.me) - macOS routes the media key to whatever it last remembers, so YouTube keeps playing and Apple Music opens.
 - [Launchie](https://www.launchie.app) - Apple removed Launchpad in macOS 26 and kept it out of 27.
 - [Harbor](https://harbor.my) - A private second brain: notes, scans, PDFs and recordings, searchable with OCR, handwriting included.
+- [Turfs](https://bloosoftware.com/turfs) - Use the desktop to keep content from across your Mac accessible and organized in defined areas — or simply keep it clutter-free.
 
 ## 🔎 Search & Discovery
 
@@ -1774,6 +1784,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [tiun.](https://tiun.io) - One system for auth, payments, customer data, and analytics.
 - [Twigg](https://twigg.ai) - Twigg is a stateful API for interacting with LLMs with no lock-in.
 - [Appwrite](https://appwrite.io) - Appwrite is an open-source cloud development platform designed for developers who want to get things done.
+- [Cronhq](https://www.cronhq.xyz) - Cron jobs fail in silence.
+- [Arcjet](https://arcjet.com) - Arcjet is the runtime security platform that ships in your AI code.
+- [Jev](https://console.typesafe.ai) - Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out.
 
 ## 💬 Chatbots & Conversational
 
@@ -1842,6 +1855,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [flat.social](https://flat.social) - Flat.social is a playful virtual space for remote teams, classes and communities. Walk up to people and talk naturally with spatial audio, share your screen, present slides or sketch on a….
 - [Die With Me](https://diewithme.co) - An AIM buddy list for your AI usage.
 - [Nepotism Network](https://nepotism.network) - Someone you know knows someone you wish you knew.
+- [PostSider](https://postsider.com) - PostSider is a social media publishing platform built for humans and AI agents.
 
 ## 🛒 E-commerce & Retail
 
